@@ -1,0 +1,6 @@
+*blah*
+.devcontainer
+*log
+.nextflow.log
+.nextflow/*
+work
